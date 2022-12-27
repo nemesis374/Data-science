@@ -8,20 +8,20 @@ A CSE (Data Science) student with a goal-oriented mindset and good communication
 intermediate knowledge in programming, enjoys competitive programming, playing games and working out.
 
 --This project is about Classification of Multiple Disease based on various parameters such as-
-itching
-skin_rash
-nodal_skin_eruptions
-continuous_sneezing
-shivering
-chills
+itching,
+skin_rash,
+nodal_skin_eruptions,
+continuous_sneezing,
+shivering,
+chills,
 .
 .
 .
 .
 .
-blister
-red_sore_around_nose
-yellow_crust_ooze
+blister,
+red_sore_around_nose,
+yellow_crust_ooze,
 
 The prediction/classification is done using the 8 steps - 
 Step 1 : import library
