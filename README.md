@@ -21,7 +21,7 @@ chills,
 .
 blister,
 red_sore_around_nose,
-yellow_crust_ooze,
+yellow_crust_ooze
 
 The prediction/classification is done using the 8 steps - 
 Step 1 : import library
